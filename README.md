@@ -46,7 +46,7 @@ Table1. The data statistics of Twitter2015, Twitter2017 and Twitter-V2 as follow
 Figute1. t-SNE distribution and sentiment label statistics.
 ![[./utils/data_statistic.png]]
 
-## 📜Results
+## 📜 Results
 
 1. The main results of subtask ASPE as bellow.
 
@@ -104,6 +104,6 @@ During the paper review stage, we have released the dataset and the core model c
 Distributed under the MIT License. See [MIT LICENSE](https://opensource.org/license/MIT) for more information.
 
 
-## 💗Acknowledgements
+## 💗 Acknowledgements
 
 Our code depends on project [MABSA-VLP](https://github.com/NUSTM/VLP-MABSA), many thanks!
