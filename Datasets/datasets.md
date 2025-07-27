@@ -1,1 +1,0 @@
-Twitter-2015, Twitter-2015-V2 and Twitter-2017 can be download from [BaiduDisk](https://pan.baidu.com/s/1GaumC06rDVriL9StZseOmA)with code *lmke*.
