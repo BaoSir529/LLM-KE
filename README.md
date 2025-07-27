@@ -44,7 +44,7 @@ Table1. The data statistics of Twitter2015, Twitter2017 and Twitter-V2 as follow
 - 📊 To investigate the impact of data reconstruction on model representation learning, we perform t-SNE visualization on feature representations learned from both the original and modified datasets.
 
 Figute1. t-SNE distribution and sentiment label statistics.
-![[./utils/data_statistic.png]]
+![Figure1. t-SNE distribution and sentiment label statistics](./utils/data_statistic.png)
 
 ## 📜 Results
 
