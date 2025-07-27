@@ -99,8 +99,6 @@ During the paper review stage, we have released the dataset and the core model c
 
 ## 🔑 License
 
-## 📄 License
-
 Distributed under the MIT License. See [MIT LICENSE](https://opensource.org/license/MIT) for more information.
 
 
