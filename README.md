@@ -6,10 +6,10 @@ LLM-based Knowledge Enhanced for Multimodal Aspect Based Sentiment Analysis
 <p align="center">
   <a href="#-Updates">✨ Updates</a> •
   <a href="#-Abstract">💡 Abstract</a> •
-  <a href="#-Datasets">📦 Datasets</a> •
-  <a href="#-Datasets">📜 Results</a> •
-  <a href="#-related-templates">🔗 Codes</a> •
-  <a href="#-license">🔑 License</a> •
+  <a href="#-Dataset">📦 Datasets</a> •
+  <a href="#-Results">📜 Results</a> •
+  <a href="#-Codes">🔗 Codes</a> •
+  <a href="#-License">🔑 License</a> •
   <a href="#-Acknowledgements">💗Acknowledgements</a>
 </p>
 
@@ -44,8 +44,7 @@ Table1. The data statistics of Twitter2015, Twitter2017 and Twitter-V2 as follow
 - 📊 To investigate the impact of data reconstruction on model representation learning, we perform t-SNE visualization on feature representations learned from both the original and modified datasets.
 
 Figute1. t-SNE distribution and sentiment label statistics.
-
-![[数据集分析.png]]
+![[./utils/data_statistic.png]]
 
 ## 📜Results
 
